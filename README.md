@@ -4,7 +4,7 @@ This project focuses on analyzing the top-selling iPhone models based on sales d
 
 The analysis is performed using Python with tools like Pandas, Matplotlib, and Seaborn for data manipulation and visualization.
 
-📌 Key Objectives
+# Key Objectives 📌
 Identify the top-selling iPhone models.
 
 Analyze year-wise or model-wise sales performance.
@@ -13,7 +13,7 @@ Visualize trends and patterns in sales data.
 
 Provide business insights to aid marketing and inventory decisions.
 
-🛠 Tools & Technologies
+# Tools & Technologies 🛠
 Python
 
 Jupyter Notebook
@@ -24,7 +24,7 @@ Matplotlib
 
 Seaborn
 
-📈 Key Insights
+# Key Insights 📈
 iPhone models like iPhone 11, iPhone XR, and iPhone 12 consistently appear among the top-selling models.
 
 Sales trends suggest a preference for mid-range models with strong battery life and camera performance.
