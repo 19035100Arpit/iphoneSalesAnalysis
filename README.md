@@ -1,5 +1,4 @@
-
-📊 # iPhone Sales Analysis
+# iPhone Sales Analysis 📊 
 📁 Project Overview
 This project focuses on analyzing the top-selling iPhone models based on sales data. The goal is to uncover insights into sales trends, customer preferences, and market performance across various iPhone models and regions.
 
